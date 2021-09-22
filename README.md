@@ -11,15 +11,15 @@ Reach me at linkedin or gmail.
 
 ## I use daily
 
-![Go](https://img.shields.io/badge/-Go-white?style=flat-square&color=blue&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&color=yellow&logo=Python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-white?style=flat-square&color=blue&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&color=yellow&logo=Python&logoColor=white) ![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&color=green&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&color=white&logo=express&logoColor=black)
 
-![Arch](https://img.shields.io/badge/Arch-6464f6?style=flat-square&logo=archlinux&logoColor=white&color=000066) ![Linux](https://img.shields.io/badge/Linux-6464f6?style=flat-square&logo=linux&color=white)
+![Arch](https://img.shields.io/badge/Arch-6464f6?style=flat-square&logo=archlinux&logoColor=white&color=000066)
 
 ![Docker](https://img.shields.io/badge/Docker-6464f6?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 
 ## Highly skilled
 
-![C](https://img.shields.io/badge/-C-ADD8E6?style=flat-square&color=191970&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-ADD8E6?style=flat-square&color=4169E1&logo=cplusplus&logoColor=white) ![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&color=green&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&color=white&logo=express&logoColor=black) ![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&color=F8FF00&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&color=cccccc&logo=gnubash&logoColor=black) 
+![C](https://img.shields.io/badge/-C-ADD8E6?style=flat-square&color=191970&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-ADD8E6?style=flat-square&color=4169E1&logo=cplusplus&logoColor=white) ![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&color=F8FF00&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&color=cccccc&logo=gnubash&logoColor=black) 
 
 ![Redis](https://img.shields.io/badge/Redis-232F3E?style=flat-square&logo=redis&color=white) ![Mongo](https://img.shields.io/badge/MongoDB-232F3E?style=flat-square&logo=mongodb&color=7fbf7f) ![SQL](https://img.shields.io/badge/SQL-232F3E?style=flat-square&logo=microsoftsqlserver&color=b2b2b2&logoColor=black)
 
