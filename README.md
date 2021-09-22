@@ -9,7 +9,7 @@ Reach me at linkedin or gmail.
 [![Linkedin Badge](https://img.shields.io/badge/-phramos07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phramos07/)](https://www.linkedin.com/in/phramos07/)
 [![Gmail Badge](https://img.shields.io/badge/-phramoscosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phramoscosta@gmail.com)](mailto:phramoscosta@gmail.com)
 
-## Expert
+## I use daily
 
 ![Go](https://img.shields.io/badge/-Go-white?style=flat-square&color=blue&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&color=yellow&logo=Python&logoColor=white)
 
