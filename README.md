@@ -4,7 +4,7 @@ I am a Sr. Software Engineer with ~11 years of coding.
 
 I love to talk about technology, ride my motorcycle and read about programming languages.
 
-Reach me at linkedin or gmail.
+Reach me on linkedin or gmail.
 
 [![Linkedin Badge](https://img.shields.io/badge/-phramos07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phramos07/)](https://www.linkedin.com/in/phramos07/)
 [![Gmail Badge](https://img.shields.io/badge/-phramoscosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phramoscosta@gmail.com)](mailto:phramoscosta@gmail.com)
