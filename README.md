@@ -42,7 +42,8 @@ Reach me on linkedin or gmail.
 ![NewRelic](https://img.shields.io/badge/-NewRelic-FCA121?style=flat-square&logo=newrelic&color=white&logoColor=black) ![Grafana](https://img.shields.io/badge/-Grafana-FCA121?style=flat-square&logo=grafana&color=e59400&logoColor=black) ![Elastic](https://img.shields.io/badge/-Elastic-FCA121?style=flat-square&logo=elastic&color=cccc3c&logoColor=black) ![Kibana](https://img.shields.io/badge/-Kibana-FCA121?style=flat-square&logo=kibana&color=ffc0cb&logoColor=black) 
 
 ### Stats
-[![phramos07's github stats](https://github-readme-stats.vercel.app/api?username=phramos07&theme=dark&show_icons=true)](https://github.com/phramos07)
+[![phramos07's github stats](https://github-readme-stats.herokuapp.app/api?username=phramos07&theme=dark&show_icons=true)](https://github.com/phramos07)
+[![phramos07's github streak](https://github-readme-streak-stats.herokuapp.com/?user=phramos07&theme=dark&show_icons=true)](https://github.com/phramos07)
 
 ### Stackoverflow
 [![Pedro Ramos's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5294876)](https://stackoverflow.com/users/5294876/phramos07)
