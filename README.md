@@ -11,7 +11,7 @@ Reach me on linkedin or gmail.
 
 ## I use daily
 
-![Go](https://img.shields.io/badge/-Go-white?style=flat-square&color=blue&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&color=yellow&logo=Python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&color=cccccc&logo=gnubash&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-white?style=flat-square&color=blue&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&color=cccccc&logo=gnubash&logoColor=black)
 
 ![Arch](https://img.shields.io/badge/Arch-6464f6?style=flat-square&logo=archlinux&logoColor=white&color=000066)
 
@@ -19,13 +19,13 @@ Reach me on linkedin or gmail.
 
 ## Highly skilled
 
-![C](https://img.shields.io/badge/-C-ADD8E6?style=flat-square&color=191970&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-ADD8E6?style=flat-square&color=4169E1&logo=cplusplus&logoColor=white) ![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&color=F8FF00&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&color=green&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&color=white&logo=express&logoColor=black)
+![C](https://img.shields.io/badge/-C-ADD8E6?style=flat-square&color=191970&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-ADD8E6?style=flat-square&color=4169E1&logo=cplusplus&logoColor=white) ![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&color=F8FF00&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&color=green&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&color=white&logo=express&logoColor=black) ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&color=yellow&logo=Python&logoColor=white)
 
-![Redis](https://img.shields.io/badge/Redis-232F3E?style=flat-square&logo=redis&color=white) ![Mongo](https://img.shields.io/badge/MongoDB-232F3E?style=flat-square&logo=mongodb&color=7fbf7f) ![SQL](https://img.shields.io/badge/SQL-232F3E?style=flat-square&logo=microsoftsqlserver&color=b2b2b2&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-232F3E?style=flat-square&logo=redis&color=white) ![Mongo](https://img.shields.io/badge/MongoDB-232F3E?style=flat-square&logo=mongodb&color=7fbf7f) ![SQL](https://img.shields.io/badge/SQL-232F3E?style=flat-square&logo=microsoftsqlserver&color=b2b2b2&logoColor=black) ![Kafka](https://img.shields.io/badge/Kafka-232F3E?style=flat-square&logo=Apache+Kafka&color=231F20)
 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-181717?style=flat-square&logo=githubactions&color=white)
 
-![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws) ![AzureFUnctions](https://img.shields.io/badge/Azure%20Functions-232F3E?style=flat-square&logo=azurefunctions&color=e5c100&logoColor=black) ![AzureDevops](https://img.shields.io/badge/Azure%20DevOps-232F3E?style=flat-square&logo=azuredevops&color=1919ff)
+![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws) 
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Goland](https://img.shields.io/badge/-GoLand-007ACC?style=flat-square&logo=jetbrains&color=bf7fbf)
 
@@ -36,6 +36,8 @@ Reach me on linkedin or gmail.
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&color=00ffff&logo=react&logoColor=black) ![angular](https://img.shields.io/badge/-AngularJS-white?style=flat-square&color=ff0000&logo=angularjs&logoColor=white) ![Graphql](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logoColor=white&logo=Graphql)
 
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-FCA121?style=flat-square&logo=bitbucket&color=00004c) 
+
+![AzureFUnctions](https://img.shields.io/badge/Azure%20Functions-232F3E?style=flat-square&logo=azurefunctions&color=e5c100&logoColor=black) ![AzureDevops](https://img.shields.io/badge/Azure%20DevOps-232F3E?style=flat-square&logo=azuredevops&color=1919ff)
 
 ![Rancher](https://img.shields.io/badge/-Rancher-FCA121?style=flat-square&logo=rancher&color=1919ff) ![Jenkins](https://img.shields.io/badge/Jenkins-232F3E?style=flat-square&logo=jenkins&color=8c8c8c) 
 
