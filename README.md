@@ -17,7 +17,7 @@ Reach me on linkedin or gmail.
 
 ![Docker](https://img.shields.io/badge/Docker-6464f6?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 
-## Highly skilled
+## Somewhat skilled
 
 ![C](https://img.shields.io/badge/-C-ADD8E6?style=flat-square&color=191970&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-ADD8E6?style=flat-square&color=4169E1&logo=cplusplus&logoColor=white) ![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&color=F8FF00&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/-NodeJS-white?style=flat-square&color=green&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&color=white&logo=express&logoColor=black) ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&color=yellow&logo=Python&logoColor=white)
 
@@ -29,7 +29,7 @@ Reach me on linkedin or gmail.
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Goland](https://img.shields.io/badge/-GoLand-007ACC?style=flat-square&logo=jetbrains&color=bf7fbf)
 
-## Less than 5 years experience
+## Less than 5 years experience, I would probably need to update myself a bit:
 
 ![C#](https://img.shields.io/badge/-C%23-white?style=flat-square&color=success&logo=csharp&logoColor=white) ![.netcore](https://img.shields.io/badge/-.NET%20core-white?style=flat-square&color=purple&logo=dotnet&logoColor=white)  ![TS](https://img.shields.io/badge/-Typescript-white?style=flat-square&color=1919ff&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-php-white?style=flat-square&color=b2b2ff&logo=php&logoColor=black) ![Java](https://img.shields.io/badge/-Java-white?style=flat-square&color=990000&logo=java&logoColor=white) 
 
