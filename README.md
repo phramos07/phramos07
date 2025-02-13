@@ -11,7 +11,7 @@ Reach me on linkedin or gmail.
 
 ## I use daily
 
-[![Cursor](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+[![Cursor](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=cursor-ai&logoColor=white)](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 
 ![Go](https://img.shields.io/badge/-Go-white?style=flat-square&color=blue&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&color=cccccc&logo=gnubash&logoColor=black)
 
