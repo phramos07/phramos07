@@ -11,6 +11,8 @@ Reach me on linkedin or gmail.
 
 ## I use daily
 
+[![Cursor](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+
 ![Go](https://img.shields.io/badge/-Go-white?style=flat-square&color=blue&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&color=cccccc&logo=gnubash&logoColor=black)
 
 ![Arch](https://img.shields.io/badge/Arch-6464f6?style=flat-square&logo=archlinux&logoColor=white&color=000066)
